@@ -1,0 +1,931 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:15:57Z",
+            "owner": "faker-js",
+            "repo": "faker",
+            "stars": 15448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Release Notes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:15:57Z",
+            "owner": "faker-js",
+            "repo": "faker",
+            "stars": 15448
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "Open source projects that use as a dependency. You can go to the repository and search for to see how they use it.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "n8n",
+          "description": "Free and source-available fair-code licensed workflow automation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:57:05Z",
+            "owner": "n8n-io",
+            "repo": "n8n",
+            "stars": 200412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prisma",
+          "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:33:36Z",
+            "owner": "prisma",
+            "repo": "prisma",
+            "stars": 47565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ink",
+          "description": "React for interactive command-line apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:11:46Z",
+            "owner": "vadimdemedes",
+            "repo": "ink",
+            "stars": 39633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keycloak",
+          "description": "Open Source Identity and Access Management For Modern Applications and Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:39:20Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medusa",
+          "description": "Building blocks for digital commerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:09:16Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxdb",
+          "description": "A fast, local first, reactive Database for JavaScript Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:56:25Z",
+            "owner": "pubkey",
+            "repo": "rxdb",
+            "stars": 23335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-jhipster",
+          "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:10:09Z",
+            "owner": "jhipster",
+            "repo": "generator-jhipster",
+            "stars": 22434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langchainjs",
+          "description": "Building applications with LLMs through composability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:37:42Z",
+            "owner": "langchain-ai",
+            "repo": "langchainjs",
+            "stars": 18062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vitest",
+          "description": "Next generation testing framework powered by Vite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:22:20Z",
+            "owner": "vitest-dev",
+            "repo": "vitest",
+            "stars": 16941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "automatisch",
+          "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-11T19:53:04Z",
+            "owner": "automatisch",
+            "repo": "automatisch",
+            "stars": 13929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evergreen",
+          "description": "Evergreen React UI Framework by Segment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-25T23:25:22Z",
+            "owner": "segmentio",
+            "repo": "evergreen",
+            "stars": 12426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nhost",
+          "description": "The Open Source Firebase Alternative with GraphQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:42:23Z",
+            "owner": "nhost",
+            "repo": "nhost",
+            "stars": 9277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mikro-orm",
+          "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:17:54Z",
+            "owner": "mikro-orm",
+            "repo": "mikro-orm",
+            "stars": 9166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mockoon",
+          "description": "Mockoon is the easiest and quickest way to run mock APIs locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T06:12:59Z",
+            "owner": "mockoon",
+            "repo": "mockoon",
+            "stars": 8354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-data-grid",
+          "description": "Feature-rich and customizable data grid React component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:11:40Z",
+            "owner": "Comcast",
+            "repo": "react-data-grid",
+            "stars": 7667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-virtuoso",
+          "description": "The most powerful virtual list component for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T06:42:37Z",
+            "owner": "petyosi",
+            "repo": "react-virtuoso",
+            "stars": 6447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orval",
+          "description": "orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:17:12Z",
+            "owner": "orval-labs",
+            "repo": "orval",
+            "stars": 6346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eui",
+          "description": "Elastic UI Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:18:19Z",
+            "owner": "elastic",
+            "repo": "eui",
+            "stars": 6344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skeleton",
+          "description": "The UI toolkit for Svelte and Tailwind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:32:22Z",
+            "owner": "skeletonlabs",
+            "repo": "skeleton",
+            "stars": 6038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prism",
+          "description": "Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T09:03:20Z",
+            "owner": "stoplightio",
+            "repo": "prism",
+            "stars": 5004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeceptJS",
+          "description": "Supercharged End 2 End Testing Framework for NodeJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:22:07Z",
+            "owner": "codeceptjs",
+            "repo": "CodeceptJS",
+            "stars": 4239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airframe-react",
+          "description": "Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-04T10:21:10Z",
+            "owner": "0wczar",
+            "repo": "airframe-react",
+            "stars": 3983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuestic-ui",
+          "description": "Free and Open Source UI Library for Vue 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-05-09T13:59:58Z",
+            "owner": "epicmaxco",
+            "repo": "vuestic-ui",
+            "stars": 3746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "virtua",
+          "description": "A zero-config, fast and small (~3kB) virtual list (and grid) component for React and Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T01:01:49Z",
+            "owner": "inokawa",
+            "repo": "virtua",
+            "stars": 3715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-schema-faker",
+          "description": "JSON-Schema + fake data generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T07:34:04Z",
+            "owner": "json-schema-faker",
+            "repo": "json-schema-faker",
+            "stars": 3447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zui",
+          "description": "ZUI is an HTML5 front UI framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:19:29Z",
+            "owner": "easysoft",
+            "repo": "zui",
+            "stars": 2767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql-kit - graphql-faker",
+          "description": "Mock or extend your GraphQL API with faked data. No coding required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-24T10:43:43Z",
+            "owner": "APIs-guru",
+            "repo": "graphql-faker",
+            "stars": 2713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jackson",
+          "description": "Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T21:17:28Z",
+            "owner": "ory",
+            "repo": "polis",
+            "stars": 2257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopify - hydrogen",
+          "description": "Hydrogen is Shopify’s stack for headless commerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:48:58Z",
+            "owner": "Shopify",
+            "repo": "hydrogen",
+            "stars": 2089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-cache-manager",
+          "description": "Cache module for Node.JS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T23:35:31Z",
+            "owner": "jaredwray",
+            "repo": "cacheable",
+            "stars": 2001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "previewjs",
+          "description": "Preview UI components in your IDE instantly.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-28T23:27:29Z",
+            "owner": "fwouts",
+            "repo": "previewjs",
+            "stars": 1936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-react-table",
+          "description": "A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T21:28:35Z",
+            "owner": "KevinVandy",
+            "repo": "material-react-table",
+            "stars": 1798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planby",
+          "description": "Planby is a React based component for a quick implementation of Epg, schedules, live streaming, music events, timelines and many more ideas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T17:01:18Z",
+            "owner": "karolkozer",
+            "repo": "planby",
+            "stars": 1720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperview",
+          "description": "Server-driven mobile apps with React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:19:30Z",
+            "owner": "Instawork",
+            "repo": "hyperview",
+            "stars": 1703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopify - quilt",
+          "description": "A loosely related set of packages for JavaScript/TypeScript projects at Shopify.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-10T02:26:54Z",
+            "owner": "Shopify",
+            "repo": "quilt",
+            "stars": 1681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mantine-datatable",
+          "description": "The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, context menus, nesting, Gmail-style batch row selection, dark theme, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T07:53:51Z",
+            "owner": "icflorescu",
+            "repo": "mantine-datatable",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucid",
+          "description": "AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T10:02:15Z",
+            "owner": "adonisjs",
+            "repo": "lucid",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electrodb",
+          "description": "A DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T18:47:47Z",
+            "owner": "tywalch",
+            "repo": "electrodb",
+            "stars": 1172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mantine-react-table",
+          "description": "A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T21:41:20Z",
+            "owner": "KevinVandy",
+            "repo": "mantine-react-table",
+            "stars": 1102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data",
+          "description": "Data modeling and relation library for testing JavaScript applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T00:16:19Z",
+            "owner": "mswjs",
+            "repo": "data",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-cli-mirage",
+          "description": "An Ember Addon to easily add Mirage JS to your Ember app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-26T02:49:39Z",
+            "owner": "miragejs",
+            "repo": "ember-cli-mirage",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zod-plugins",
+          "description": "Plugins and utilities for Zod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T06:07:04Z",
+            "owner": "anatine",
+            "repo": "zod-plugins",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai dataset generator",
+          "description": "Free open source tool to generate datasets for demos, learning, and dashboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-03T19:30:04Z",
+            "owner": "metabase",
+            "repo": "dataset-generator",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsuite-table",
+          "description": "A React table component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-22T08:13:34Z",
+            "owner": "rsuite",
+            "repo": "rsuite-table",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuetensils",
+          "description": "A tasty toolset for Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2025-12-29T21:51:40Z",
+            "owner": "AustinGil",
+            "repo": "vuetensils",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monika",
+          "description": "Monika is a command line application to monitor every part of your web app using a simple YAML configuration file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:03:32Z",
+            "owner": "hyperjumptech",
+            "repo": "monika",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typeorm-fixtures",
+          "description": "Fixtures loader for typeorm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T23:36:37Z",
+            "owner": "RobinCK",
+            "repo": "typeorm-fixtures",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wave-ui",
+          "description": "A UI framework for Vue.js (2 & 3) with only the bright side.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-16T04:42:35Z",
+            "owner": "antoniandre",
+            "repo": "wave-ui",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo4j - graphql",
+          "description": "A GraphQL to Cypher query execution layer for Neo4j and JavaScript GraphQL implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T17:03:25Z",
+            "owner": "neo4j",
+            "repo": "graphql",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postman-collection",
+          "description": "Javascript module that allows a developer to work with Postman Collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T02:27:42Z",
+            "owner": "postmanlabs",
+            "repo": "postman-collection",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql-codegen-typescript-mock-data",
+          "description": "GraphQL Codegen Plugin for building mock data based on the schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T04:26:19Z",
+            "owner": "ardeois",
+            "repo": "graphql-codegen-typescript-mock-data",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faker-server",
+          "description": "Mock server based on faker.js with a web interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-21T08:19:51Z",
+            "owner": "Ray-D-Song",
+            "repo": "faker-server",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "interface-forge",
+          "description": "A library for mock data generation using factories. This library extends Faker.js directly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T08:32:37Z",
+            "owner": "Goldziher",
+            "repo": "interface-forge",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data-generator",
+          "description": "A Next.js UI built with Shadcn and Tailwind CSS, designed as a wrapper for Faker.js to generate custom synthetic datasets. Include features to export data to CSV, JSON, and SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-22T16:32:57Z",
+            "owner": "bmascat",
+            "repo": "data-generator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h37-fakestream",
+          "description": "h37-fakestream is a package that allows you to generate synthetic data for your Segment data pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-28T16:03:47Z",
+            "owner": "human-37",
+            "repo": "h37-fakestream",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Projects using"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python - faker",
+          "description": "Faker is a Python package that generates fake data for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:10:57Z",
+            "owner": "joke2k",
+            "repo": "faker",
+            "stars": 19370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript - @faker-js/faker",
+          "description": "Generate massive amounts of fake data in the browser and node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:15:57Z",
+            "owner": "faker-js",
+            "repo": "faker",
+            "stars": 15448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby - faker",
+          "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T23:42:35Z",
+            "owner": "faker-ruby",
+            "repo": "faker",
+            "stars": 11931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#/F#/VB.NET - Bogus",
+          "description": "A port of Faker for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-22T22:34:35Z",
+            "owner": "bchavez",
+            "repo": "Bogus",
+            "stars": 9726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java - Datafaker",
+          "description": "Brings the popular ruby faker gem to Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T16:40:22Z",
+            "owner": "datafaker-net",
+            "repo": "datafaker",
+            "stars": 1789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust - fake-rs",
+          "description": "A library for generating fake data in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T16:03:49Z",
+            "owner": "cksac",
+            "repo": "fake-rs",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++ - faker-cxx",
+          "description": "C++ Faker library for generating fake (but realistic) data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-07T19:21:57Z",
+            "owner": "cieslarmichal",
+            "repo": "faker-cxx",
+            "stars": 420
+          }
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:49.734Z",
+    "original_repository": "faker-js/awesome-faker",
+    "original_repository_sha": "8c0688e2aba1c2299e806a8282dfdf236fa73eab",
+    "enhanced_repository": "enhansome/enhansome-faker",
+    "enhanced_repository_description": null,
+    "title": "Awesome Faker with stars"
+  }
+}
