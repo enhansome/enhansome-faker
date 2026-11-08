@@ -4,8 +4,8 @@
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/faker-js/faker) ⭐ 15,544 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-06
-* [Release Notes](https://github.com/faker-js/faker/releases) ⭐ 15,544 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-06
+* [GitHub Repo](https://github.com/faker-js/faker) ⭐ 15,545 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-06
+* [Release Notes](https://github.com/faker-js/faker/releases) ⭐ 15,545 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-06
 * [Documentation](https://fakerjs.dev)
 * [API Reference](https://fakerjs.dev/api)
 * [Discord Server](https://chat.fakerjs.dev)
@@ -17,43 +17,43 @@
 
 Open source projects that use `@faker-js/faker` as a dependency. You can go to the repository and search for `faker` to see how they use it.
 
-* [n8n](https://github.com/n8n-io/n8n) ⭐ 209,716 | 🐛 1,220 | 🌐 TypeScript | 📅 2026-11-06 - Free and source-available fair-code licensed workflow automation tool.
-* [prisma](https://github.com/prisma/prisma) ⭐ 47,659 | 🐛 2,840 | 🌐 TypeScript | 📅 2026-11-06 - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
-* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,238 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31 - React for interactive command-line apps.
-* [keycloak](https://github.com/keycloak/keycloak) ⭐ 37,738 | 🐛 3,491 | 🌐 Java | 📅 2026-11-06 - Open Source Identity and Access Management For Modern Applications and Services.
-* [medusa](https://github.com/medusajs/medusa) ⭐ 37,117 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-06 - Building blocks for digital commerce.
-* [rxdb](https://github.com/pubkey/rxdb) ⭐ 23,419 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-06 - A fast, local first, reactive Database for JavaScript Applications.
-* [generator-jhipster](https://github.com/jhipster/generator-jhipster) ⭐ 22,461 | 🐛 88 | 🌐 TypeScript | 📅 2026-11-07 - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-* [langchainjs](https://github.com/langchain-ai/langchainjs) ⭐ 18,328 | 🐛 761 | 🌐 TypeScript | 📅 2026-11-06 - Building applications with LLMs through composability.
-* [vitest](https://github.com/vitest-dev/vitest) ⭐ 17,341 | 🐛 352 | 🌐 TypeScript | 📅 2026-11-06 - Next generation testing framework powered by Vite.
-* [automatisch](https://github.com/automatisch/automatisch) ⭐ 14,011 | 🐛 292 | 🌐 JavaScript | 📅 2026-02-11 - The open source Zapier alternative. Build workflow automation without spending time and money.
-* [evergreen](https://github.com/segmentio/evergreen) ⭐ 12,428 | 🐛 80 | 🌐 JavaScript | 📅 2026-06-25 - Evergreen React UI Framework by Segment.
-* [nhost](https://github.com/nhost/nhost) ⭐ 9,376 | 🐛 175 | 🌐 Go | 📅 2026-11-06 - The Open Source Firebase Alternative with GraphQL.
-* [mikro-orm](https://github.com/mikro-orm/mikro-orm) ⭐ 9,269 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-07 - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-* [mockoon](https://github.com/mockoon/mockoon) ⭐ 8,472 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-06 - Mockoon is the easiest and quickest way to run mock APIs locally.
+* [n8n](https://github.com/n8n-io/n8n) ⭐ 209,777 | 🐛 1,233 | 🌐 TypeScript | 📅 2026-11-08 - Free and source-available fair-code licensed workflow automation tool.
+* [prisma](https://github.com/prisma/prisma) ⭐ 47,659 | 🐛 2,841 | 🌐 TypeScript | 📅 2026-11-06 - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,239 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31 - React for interactive command-line apps.
+* [keycloak](https://github.com/keycloak/keycloak) ⭐ 37,746 | 🐛 3,496 | 🌐 Java | 📅 2026-11-07 - Open Source Identity and Access Management For Modern Applications and Services.
+* [medusa](https://github.com/medusajs/medusa) ⭐ 37,125 | 🐛 134 | 🌐 TypeScript | 📅 2026-11-07 - Building blocks for digital commerce.
+* [rxdb](https://github.com/pubkey/rxdb) ⭐ 23,421 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-08 - A fast, local first, reactive Database for JavaScript Applications.
+* [generator-jhipster](https://github.com/jhipster/generator-jhipster) ⭐ 22,462 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-08 - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+* [langchainjs](https://github.com/langchain-ai/langchainjs) ⭐ 18,328 | 🐛 772 | 🌐 TypeScript | 📅 2026-11-07 - Building applications with LLMs through composability.
+* [vitest](https://github.com/vitest-dev/vitest) ⭐ 17,346 | 🐛 355 | 🌐 TypeScript | 📅 2026-11-07 - Next generation testing framework powered by Vite.
+* [automatisch](https://github.com/automatisch/automatisch) ⭐ 14,013 | 🐛 292 | 🌐 JavaScript | 📅 2026-02-11 - The open source Zapier alternative. Build workflow automation without spending time and money.
+* [evergreen](https://github.com/segmentio/evergreen) ⭐ 12,429 | 🐛 80 | 🌐 JavaScript | 📅 2026-06-25 - Evergreen React UI Framework by Segment.
+* [nhost](https://github.com/nhost/nhost) ⭐ 9,375 | 🐛 175 | 🌐 Go | 📅 2026-11-07 - The Open Source Firebase Alternative with GraphQL.
+* [mikro-orm](https://github.com/mikro-orm/mikro-orm) ⭐ 9,270 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-08 - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
+* [mockoon](https://github.com/mockoon/mockoon) ⭐ 8,474 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-06 - Mockoon is the easiest and quickest way to run mock APIs locally.
 * [react-data-grid](https://github.com/adazzle/react-data-grid) ⭐ 7,693 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-06 - Feature-rich and customizable data grid React component.
-* [orval](https://github.com/anymaniax/orval) ⭐ 6,593 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-07 - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats.
-* [react-virtuoso](https://github.com/petyosi/react-virtuoso) ⭐ 6,484 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-02 - The most powerful virtual list component for React.
-* [eui](https://github.com/elastic/eui) ⭐ 6,384 | 🐛 258 | 🌐 TypeScript | 📅 2026-11-06 - Elastic UI Framework.
-* [skeleton](https://github.com/skeletonlabs/skeleton) ⭐ 6,088 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-06 - The UI toolkit for Svelte and Tailwind.
-* [prism](https://github.com/stoplightio/prism) ⭐ 5,066 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-31 - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-* [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,252 | 🐛 192 | 🌐 JavaScript | 📅 2026-11-06 - Supercharged End 2 End Testing Framework for NodeJS.
+* [orval](https://github.com/anymaniax/orval) ⭐ 6,593 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-07 - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats.
+* [react-virtuoso](https://github.com/petyosi/react-virtuoso) ⭐ 6,484 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-02 - The most powerful virtual list component for React.
+* [eui](https://github.com/elastic/eui) ⭐ 6,384 | 🐛 258 | 🌐 TypeScript | 📅 2026-11-07 - Elastic UI Framework.
+* [skeleton](https://github.com/skeletonlabs/skeleton) ⭐ 6,088 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-08 - The UI toolkit for Svelte and Tailwind.
+* [prism](https://github.com/stoplightio/prism) ⭐ 5,068 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-31 - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+* [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,252 | 🐛 195 | 🌐 JavaScript | 📅 2026-11-07 - Supercharged End 2 End Testing Framework for NodeJS.
 * [airframe-react](https://github.com/0wczar/airframe-react) ⭐ 3,990 | 🐛 48 | 🌐 JavaScript | 📅 2025-04-04 - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16.
-* [virtua](https://github.com/inokawa/virtua) ⭐ 3,762 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-06 - A zero-config, fast and small (\~3kB) virtual list (and grid) component for React and Vue.
+* [virtua](https://github.com/inokawa/virtua) ⭐ 3,763 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-07 - A zero-config, fast and small (\~3kB) virtual list (and grid) component for React and Vue.
 * [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) ⭐ 3,749 | 🐛 531 | 🌐 Vue | 📅 2026-05-09 - Free and Open Source UI Library for Vue 3.
-* [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) ⭐ 3,447 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-30 - JSON-Schema + fake data generators.
+* [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) ⭐ 3,447 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-30 - JSON-Schema + fake data generators.
 * [zui](https://github.com/easysoft/zui) ⭐ 2,766 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-06 - ZUI is an HTML5 front UI framework.
 * [graphql-kit - graphql-faker](https://github.com/graphql-kit/graphql-faker) ⭐ 2,713 | 🐛 79 | 🌐 TypeScript | 📅 2023-11-24 - Mock or extend your GraphQL API with faked data. No coding required.
 * [jackson](https://github.com/boxyhq/jackson) ⭐ 2,272 | 🐛 34 | 🌐 TypeScript | 📅 2026-07-27 - Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols.
-* [Shopify - hydrogen](https://github.com/Shopify/hydrogen) ⭐ 2,168 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-06 - Hydrogen is Shopify’s stack for headless commerce.
-* [node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) ⭐ 2,013 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - Cache module for Node.JS.
+* [Shopify - hydrogen](https://github.com/Shopify/hydrogen) ⭐ 2,168 | 🐛 137 | 🌐 TypeScript | 📅 2026-11-06 - Hydrogen is Shopify’s stack for headless commerce.
+* [node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) ⭐ 2,012 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-07 - Cache module for Node.JS.
 * [previewjs](https://github.com/fwouts/previewjs) ⚠️ Archived - Preview UI components in your IDE instantly.
 * [material-react-table](https://github.com/KevinVandy/material-react-table) ⭐ 1,809 | 🐛 170 | 🌐 TypeScript | 📅 2026-06-05 - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript.
-* [hyperview](https://github.com/Instawork/hyperview) ⭐ 1,722 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-06 - Server-driven mobile apps with React Native.
+* [hyperview](https://github.com/Instawork/hyperview) ⭐ 1,722 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-07 - Server-driven mobile apps with React Native.
 * [planby](https://github.com/karolkozer/planby) ⭐ 1,722 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-23 - Planby is a React based component for a quick implementation of Epg, schedules, live streaming, music events, timelines and many more ideas.
 * [Shopify - quilt](https://github.com/Shopify/quilt) ⚠️ Archived - A loosely related set of packages for JavaScript/TypeScript projects at Shopify.
 * [mantine-datatable](https://github.com/icflorescu/mantine-datatable) ⭐ 1,263 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-11 - The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, custom cell data rendering, context menus, nesting, Gmail-style batch row selection, dark theme, and more.
-* [lucid](https://github.com/adonisjs/lucid) ⭐ 1,231 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-27 - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more.
+* [lucid](https://github.com/adonisjs/lucid) ⭐ 1,231 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-27 - AdonisJS SQL ORM. Supports PostgreSQL, MySQL, MSSQL, Redshift, SQLite and many more.
 * [electrodb](https://github.com/tywalch/electrodb) ⭐ 1,180 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-09 - A DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.
 * [mantine-react-table](https://github.com/KevinVandy/mantine-react-table) ⭐ 1,105 | 🐛 59 | 🌐 TypeScript | 📅 2026-06-05 - A fully featured Mantine V5 implementation of TanStack React Table V8, forked from Material React Table.
 * [data](https://github.com/mswjs/data) ⭐ 1,067 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-30 - Data modeling and relation library for testing JavaScript applications.
@@ -80,11 +80,11 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 
 ## Languages
 
-* [Python - faker](https://github.com/joke2k/faker) ⭐ 19,484 | 🐛 57 | 🌐 Python | 📅 2026-10-28 - Faker is a Python package that generates fake data for you.
-* [JavaScript - @faker-js/faker](https://github.com/faker-js/faker) ⭐ 15,544 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-06 - Generate massive amounts of fake data in the browser and node.js.
-* [Ruby - faker](https://github.com/faker-ruby/faker) ⭐ 11,945 | 🐛 36 | 🌐 Ruby | 📅 2026-11-05 - A library for generating fake data such as names, addresses, and phone numbers.
+* [Python - faker](https://github.com/joke2k/faker) ⭐ 19,486 | 🐛 58 | 🌐 Python | 📅 2026-10-28 - Faker is a Python package that generates fake data for you.
+* [JavaScript - @faker-js/faker](https://github.com/faker-js/faker) ⭐ 15,545 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-06 - Generate massive amounts of fake data in the browser and node.js.
+* [Ruby - faker](https://github.com/faker-ruby/faker) ⭐ 11,946 | 🐛 36 | 🌐 Ruby | 📅 2026-11-05 - A library for generating fake data such as names, addresses, and phone numbers.
 * [C#/F#/VB.NET - Bogus](https://github.com/bchavez/Bogus) ⭐ 9,752 | 🐛 96 | 🌐 C# | 📅 2025-12-22 - A port of Faker for .NET
-* [Java - Datafaker](https://github.com/datafaker-net/datafaker) ⭐ 1,808 | 🐛 18 | 🌐 Java | 📅 2026-11-06 - Brings the popular ruby faker gem to Java.
+* [Java - Datafaker](https://github.com/datafaker-net/datafaker) ⭐ 1,808 | 🐛 17 | 🌐 Java | 📅 2026-11-06 - Brings the popular ruby faker gem to Java.
 * [Rust - fake-rs](https://github.com/cksac/fake-rs) ⭐ 1,243 | 🐛 15 | 🌐 Rust | 📅 2026-09-15 - A library for generating fake data in Rust.
 * [C++ - faker-cxx](https://github.com/cieslarmichal/faker-cxx) ⭐ 420 | 🐛 0 | 🌐 C++ | 📅 2026-08-24 - C++ Faker library for generating fake (but realistic) data.
 * [Perl - Data-Faker](https://metacpan.org/dist/Data-Faker)
@@ -102,4 +102,4 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
